@@ -1,0 +1,2 @@
+# Capscoin
+Cryptocurrency
